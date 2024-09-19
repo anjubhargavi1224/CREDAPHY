@@ -16,10 +16,10 @@ Credaphy is a project based on steganography, mainly consisting of encrypting an
 
 ## Features
 
-- **Beautiful Sleek UI:** 
-- **Responsive Design:** 
-- **Credibility:**
-- **Secure:**
+- **Beautiful Sleek UI** 
+- **Responsive Design** 
+- **Credibility**
+- **Secure**
 
 ## Technologies Used
 
