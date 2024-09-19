@@ -6,13 +6,13 @@ Credaphy is a project based on steganography, mainly consisting of encrypting an
 
 # About Page
 ![Screenshot 2024-09-18 195211](https://github.com/user-attachments/assets/c99b0abb-f233-43cd-8b49-6007f60ebcaa)
-![Screenshot 2024-09-18 195651](https://github.com/user-attachments/assets/7e8bc4c9-44f8-41e9-b5ef-0db10b56362d)
 
 # Encode Page
-![Screenshot 2024-09-18 195828](https://github.com/user-attachments/assets/658f2aec-6e71-4ca2-99cb-36dc56878033)
+![Screenshot 2024-09-18 195651](https://github.com/user-attachments/assets/7e8bc4c9-44f8-41e9-b5ef-0db10b56362d)
 
 # Decode Page
-![Screenshot 2024-09-18 195651](https://github.com/user-attachments/assets/86736b02-0b86-40ef-891d-b0ea4036b5bb)
+![Screenshot 2024-09-18 195828](https://github.com/user-attachments/assets/658f2aec-6e71-4ca2-99cb-36dc56878033)
+
 
 ## Features
 
