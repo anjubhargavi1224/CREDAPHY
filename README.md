@@ -1,6 +1,10 @@
-Credaphy - A Steganography Project 
-Credaphy is a project based on steganography, mainly consisting of encrypting and decrypting of messages using images as the base. In this project we take the image and encryption message from the user and convert the message to binary format and store it in the image we have used the least significant bit algorithm due to this the message is converted to bit format and is stored in the least significant bit of the image that is the bits in the image that will be least affected in terms of color change ,it will store the message in such a way that the image color change will not be visible to the naked human eye. In our project we have used this mechanism in order to produce images that will help the sender to transfer data to the receiver in a more secure manner.
+## Credaphy - Image Steganography Web App
 
+## Overview
+
+Credaphy is a secure and visually appealing web application based on steganography, enabling users to hide and extract secret messages within images.
+
+The project uses the Least Significant Bit (LSB) algorithm to embed encrypted messages into images in a way that does not visibly alter the image, ensuring secure and discreet communication between sender and receiver.
 # Home Page
 ![Screenshot 2024-09-18 195020](https://github.com/user-attachments/assets/c1976d72-5590-4920-9ce3-2a5e14c9a092)
 
@@ -16,17 +20,52 @@ Credaphy is a project based on steganography, mainly consisting of encrypting an
 
 ## Features
 
-- **Beautiful Sleek UI** 
+- **Secure Message Encryption**
+- **Image-Based Data Hiding**
+- **Beautiful Sleek UI**
 - **Responsive Design** 
 - **Credibility**
 - **Secure**
 
+## How it works
+- User uploads an image
+- Message is converted into binary format
+- Binary data is embedded into the image using LSB technique
+- Image appears unchanged visually
+- Receiver decodes the image to retrieve the hidden message
+
 ## Technologies Used
 
-- **HTML:** For structuring the web app.
-- **CSS:** For styling and making the app visually appealing.
-- **JavaScript:** For implementing functionality and interactivity.
-- **Json:** For data exchange between web applications and servers
-- **Bootstrap:** For building the websites and web apps.
+- **HTML:** Structuring the web app.
+- **CSS:** Styling and making the app visually appealing.
+- **JavaScript:** Core logic and interactivity.
+- **Json:** Data handling and exchange.
+- **Bootstrap:** Responsive design and UI components.
 
+## Installation and Usage
+
+To run this project locally:
+
+1.Clone the repository
+```sh
+git clone http://github.com/anjubhargavi1224/CREDAPHY.git
+```
+2. Navigate to the project directory
+```sh
+cd CREDAPHY
+```
+3. Run the project
+Open `index.html` in your browser
+OR
+Use Live Server for better performance
+
+## Project Highlights
+- Implemented LSB steganography algorithm for secure data hiding
+- Designed an intuitive UI for encoding and decoding
+- Built a privacy-focused communication tool
+- Ensured minimal image distortion during encryption
+## Acknowledgments
+- Developed as part of academic/project-based learning
+- Inspired by real-world applications of data security and cryptography
+- Thanks to mentors and peers for guidance and support
 
